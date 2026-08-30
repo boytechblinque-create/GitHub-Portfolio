@@ -1,0 +1,7 @@
+.vs/**/*
+iPhoneBypasserUI/.vs/**/*
+iPhoneBypasserUI/bin/**/*
+iPhoneBypasserUI/obj/**/*
+iPhoneBypasserUI.Library/.vs/**/*
+iPhoneBypasserUI.Library/bin/**/*
+iPhoneBypasserUI.Library/obj/**/*
